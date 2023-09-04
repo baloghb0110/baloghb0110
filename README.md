@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Barnabas Balogh 👋
 
 <!--
 **baloghb0110/baloghb0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

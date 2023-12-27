@@ -30,4 +30,4 @@ Editors of choice:
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baloghb0110&show_icons=true&theme=codeSTACKr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baloghb0110&show_icons=true&theme=codeSTACKr&rank_icon=github)

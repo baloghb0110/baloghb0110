@@ -1,6 +1,6 @@
 # Welcome to my profile! 👋
 
-My name is Barnabás. I’m currently studying  **full-stack software developement** at  **Codecool** coding bootcamp
+My name is Barnabas. I am currently a freelance **full-stack software developer**.
 
 <div align="center">
 <br>
